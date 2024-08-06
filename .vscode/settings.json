@@ -1,0 +1,7 @@
+{
+    "CodeGPT.apiKey": "CodeGPT Plus Beta",
+    "java.project.sourcePaths": [
+        "."
+    ],
+    "java.debug.settings.onBuildFailureProceed": true
+}
